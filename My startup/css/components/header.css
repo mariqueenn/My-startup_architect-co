@@ -1,0 +1,26 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.header a {
+  text-decoration: none;
+  color: black;
+  padding: 12px 32px;
+  background-color: white;
+  border-radius: 8px;
+  font-weight: 500;
+  margin: 8px;
+}
+
+.header a:hover {
+  text-decoration: none;
+  padding: 12px 32px;
+  background-color: #5463FF;
+  border-radius: 8px;
+  color: white;
+  transition: 0.5s;
+  opacity: 0.8;
+}

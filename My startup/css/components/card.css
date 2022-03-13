@@ -1,0 +1,24 @@
+.card  { background-size: cover;
+  background-position: center;
+  height: 400px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  text-shadow: 1px 1px 3px rgba(0,0,0,0.2);
+  border-radius: 0px;
+  box-shadow: 0px 0px 30px rgb(0 0 0 / 30%);
+  margin: 0px;
+ padding: 40px 112px;
+  flex-grow: 1;
+  font-size: 28px;
+  font-family: 'Hubballi', cursive;
+  font-weight: 500;
+}
+
+
+
+.card img {
+  width: 500px;
+  height: 500px;
+  }

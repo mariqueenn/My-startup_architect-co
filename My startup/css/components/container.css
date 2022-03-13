@@ -1,0 +1,22 @@
+.container {
+  width: 700px;
+  margin: 50px auto;
+  text-align: center;
+}
+
+@media(max-width: 760px) {
+  .container {
+  width: 500px;
+  }
+}
+
+@media(max-width: 500px) {
+  .container {
+  width: 400px;
+  }
+}
+
+.centeredTitle {
+  text-align: center;
+  font-weight: 500;
+}
